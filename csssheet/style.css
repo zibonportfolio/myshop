@@ -76,7 +76,43 @@ li{
 	float:right;
 	margin-top: 45px;
 }
+
+.menubox-2 li:hover {
+	background-color: #E9EAEC;
+	color: #FB6E09;
+	font-weight: bold;
+	border:1.5px solid #69819B;
+	border-radius: 10px; 
+}
+
 .list-menu{
 	font-size: 17px;
 	padding: 0 17px 0 17px;
+}
+
+#branding-1{
+	text-align: center;
+	margin: 0 auto;	
+}
+.banner1{
+	width: 85%;
+	max-height:350px;
+
+}
+.menubar-2{
+	font-size: 20px;
+	float: left;
+	padding: 0 150px 0 150px;
+}
+#categories-1{
+	margin-top: 10px;
+	background-color: #fff;
+}
+
+#categories-1 li:hover{
+	background-color: #E9EAEC;
+	color: #FB6E09;
+	font-weight: bold;
+	border:1.5px solid #69819B;
+	border-radius: 10px; 
 }
